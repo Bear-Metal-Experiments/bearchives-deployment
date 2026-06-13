@@ -1,1 +1,0 @@
-This repo serves as a place for the built Bearchives site to live and be hosted by GitHub Pages.
